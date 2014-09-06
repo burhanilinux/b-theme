@@ -17,7 +17,7 @@ menu.items.text.color: #dcdcdc
 menu.items.disabled.text.color: #888888
 
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #d64937
+menu.items.active.bg.color: #d6374d
 menu.items.active.text.color: #f9f9f9
 
 menu.separator.color: #262626
@@ -97,7 +97,7 @@ osd.label.bg.color: #2d2d2d
 osd.label.text.color: #dcdcdc
 
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #d64937
+osd.hilight.bg.color: #d6374d
 
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #888888
@@ -114,7 +114,7 @@ osd.button.focused.bg: flat solid border
 osd.button.focused.bg.color: #303030
 osd.button.focused.*.border.color: #1e1e1e
 
-osd.button.focused.box.color: #d64937
+osd.button.focused.box.color: #d6374d
 
 
 # Fonts

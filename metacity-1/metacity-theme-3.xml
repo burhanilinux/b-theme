@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>Numix</name>
+	<name>B-Theme</name>
 	<author>Satyajit Sahoo</author>
+    <author>Juzer Dana</author>
 	<copyright>GPL-3.0+</copyright>
-	<date>11 December 2013</date>
-	<description>Numix Mutter Theme</description>
+	<date>06 Sept 2014</date>
+	<description>B-Theme for Mutter</description>
 </info>
 
 <!-- ::: CONSTANTS ::: -->
