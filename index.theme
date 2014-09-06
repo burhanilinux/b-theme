@@ -1,11 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Mint-X
-Comment=A Linux Mint theme with brushed metal in mintMenu, based on Clearlooks Revamp, Elementary and Faenza.
+Name=Numix
+Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Mint-X
-MetacityTheme=Mint-X
-IconTheme=Mint-X
-CursorTheme=default
+GtkTheme=Numix
+MetacityTheme=Numix
+ButtonLayout=:minimize,maximize,close
