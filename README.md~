@@ -15,8 +15,8 @@ gsettings set org.gnome.desktop.wm.preferences theme "B-Theme"
 To set the theme in Xfce, run the following commands in Terminal,
 
 ```
-xfconf-query -c xsettings -p /Net/ThemeName -s "B-Theme"
-xfconf-query -c xfwm4 -p /general/theme -s "B-Theme"
+xfconf-query -c xsettings -p /Net/ThemeName -s "Numix"
+xfconf-query -c xfwm4 -p /general/theme -s "Numix"
 ```
 
 ### Requirements
