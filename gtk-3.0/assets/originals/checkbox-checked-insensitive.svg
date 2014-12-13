@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="checkbox-checked.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3794">
+      <stop
+         style="stop-color:#d6374d;stop-opacity:1;"
+         offset="0"
+         id="stop3796" />
+      <stop
+         id="stop3806"
+         offset="1"
+         style="stop-color:#d6374d;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3782">
+      <stop
+         style="stop-color:#d6374d;stop-opacity:1;"
+         offset="0"
+         id="stop3784" />
+      <stop
+         style="stop-color:#d6374d;stop-opacity:0;"
+         offset="1"
+         id="stop3786" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3794"
+       id="radialGradient3804"
+       cx="8"
+       cy="1044.3622"
+       fx="8"
+       fy="1044.3622"
+       r="4.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="-0.042134171"
+     inkscape:cy="12.124175"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="850"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3774"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       id="g3830"
+       transform="translate(-0.79503059,0.79503463)">
+      <rect
+         ry="0.97982377"
+         rx="0.97982377"
+         y="1038.3265"
+         x="1.9642859"
+         height="12.071428"
+         width="12.071428"
+         id="rect3776"
+         style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:none;stroke:#cccccc;stroke-width:2;stroke-opacity:1"
+         id="rect3778"
+         width="12.409939"
+         height="12.409939"
+         x="1.7950306"
+         y="1038.1572"
+         rx="0.89285713"
+         ry="0.89285713" />
+    </g>
+    <g
+       id="g2995"
+       style="fill:#cccccc">
+      <rect
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         ry="0"
+         rx="0"
+         y="738.92169"
+         x="-735.46814"
+         height="6.9294558"
+         width="2.7232144"
+         id="rect3808"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="rect3810"
+         width="2.7232144"
+         height="11.572313"
+         x="-745.85114"
+         y="-734.71411"
+         rx="0"
+         ry="0" />
+    </g>
+  </g>
+</svg>

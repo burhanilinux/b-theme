@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>B-Theme</name>
-	<author>Satyajit Sahoo</author>
-    <author>Juzer Dana</author>
+	<name>bTheme</name>
+	<author>Juzer Dana</author>
 	<copyright>GPL-3.0+</copyright>
-	<date>06 Sept 2014</date>
-	<description>B-Theme for Metacity</description>
+	<date>10 March 2014</date>
+	<description>bTheme Metacity Theme</description>
 </info>
 
 <!-- ::: CONSTANTS ::: -->
